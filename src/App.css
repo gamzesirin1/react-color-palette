@@ -1,0 +1,21 @@
+.spoiler {
+	margin: 20px;
+	font-size: 20px;
+}
+.header {
+	margin: 20px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: 20px;
+	padding: 20px;
+}
+.color-picker {
+	justify-content: center;
+	margin-left: 390px;
+	align-items: center;
+}
